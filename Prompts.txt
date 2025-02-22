@@ -1,0 +1,34 @@
+I am working on a project called "CodeSmith" and authored by Rupankar. This is a tool for generating directory structures and frameworks and i plan to deploy this as a product for 1000 people. It contains frontend and backend both.
+
+Generate a structured directory layout for this project in the form of a nested list named Structure.
+
+The output should be a list of tuples where each tuple contains, ensure it is a list:  
+1. **Level** (integer) – Represents the depth of the file/folder in the hierarchy.  
+2. **Name** (string) – The file or folder name.  
+3. **Type** (string) – Either `"file"` or `"folder"`. 
+
+
+
+I want to create a project with the name "Project Name", author "Project Author". Audience Reach "Small Scale" and Project Plan "FDKFDJSKJFJFASSF". Give me frontend. Framework should be "React.js". Language should be "TypeScript". Stylinng solution is "Tailwind CSS". State management is "None". There should be no authentication setup. Testing framework is "none". Project name is "project". Package manager is "npm". Routing solution is "React Router". UI Component Library is "shadcn/ui". Form handling is "none". Analytics is "None". Include SEO configuration (meta tags, sitemap, robots.txt). Dont include i18n setup. Dont include PWA configuration. I need important boilerplate code.
+
+Generate a structured directory layout for this project in the form of a nested list named Structure.
+
+The output should be a list of tuples where each tuple contains, ensure it is a list:  
+1. **Level** (integer) – Represents the depth of the file/folder in the hierarchy.  
+2. **Name** (string) – The file or folder name.  
+3. **Type** (string) – Either `"file"` or `"folder"`. 
+
+
+My project name is "Project Name", author is "Author" and my audience reach is "small scale". The project will have frontend with framework as React.js. Language should be typescript and styling solution should be tailwind CSS. State management is None. Authentication setup is None. Testing framework is None. Package manager is Npm. Routing solution is React Solution. UI Component Library is shadcn/ui. From handling include PWA configuration. 
+
+Generate a structured directory layout for this project in the form of a nested list named Structure.
+
+The output should be a list of tuples where each tuple contains, ensure it is a list:  
+1. **Level** (integer) – Represents the depth of the file/folder in the hierarchy.  
+2. **Name** (string) – The file or folder name.  
+3. **Type** (string) – Either `"file"` or `"folder"`. 
+
+Then create boilerplate template code for ALL the files in the directories. Give the output in a dictionary format with the key being the file name and the value being the boilerplate template code for each respective file as a string with \n for line breaks
+
+
+
